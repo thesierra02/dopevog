@@ -1,27 +1,22 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://github.com/dopevog">Hi! I'm Dopevog</a><br>
+        <a href="https://github.com/dopevog">Hi! I'm Sierra</a><br>
     </b>
-    <img align="center" width="100" height="100" src="https://github.com/dopevog/dopevog/blob/main/myicon.png"><br>
+    <img align="center" width="100" height="100" src="https://www.pngarts.com/files/8/Anime-Cat-PNG-Image-Transparent-Background.png"><br>
     </b>
-    ✨ A Developer, Investor & Constant Learner ✨ <br>
+    ✨ A Developer & Cat Lover ✨ <br>
 
 </h1>
 
 
 Here are some quick things about me:
 
-- 🔭 I'm a software developer from Earth.
-- ⚗️ A lover of finance, current topics, space and real life project implementation.
-- 📫 Contact me via email [here](mailto:vedant.vnk@gmail.com).
-- 👾 DM me on [discord](https://discord.com/users/711092289740472370).
-- ⚡ I love Python, JavaScript & Algorithmic Trading.
-- 📈 I have developed and use [this](https://docs.google.com/document/d/1ks_oHgM1R7aNmpa2Cq8Y12pmkiN3P1iAdAr1PqiUhZg/edit) algorithm to accurately value stocks!
-- 😁 Pronouns: He/Him
+- 🔭 I'm a software developer at [Apple](https://github.com/apple).
+- 📫 Contact me via email [here](mailto:tsierra738@gmail.com).
+- ⚡ I love graphical desining, swift, python and javascript!
+- 📈 I love finance too!
+- 😁 Pronouns: She/Her
 
-Check out..... 
-
-- 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share about myself!
 
 ---
 
@@ -55,105 +50,7 @@ Check out.....
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a>
 </p>
 
----
 
-<details>
-  <summary>📕 Latest Blog Posts</summary>
-  
-<!-- BLOG-POST-LIST:START -->
-- [Nothing Yet]()
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...]()
-
-</details>
-
-<details>
-  <summary>🏆 Codejams I Have Participated In</summary>
-  
-<!-- CODEJAM-LIST:START -->
-- [Nothing Yet]()
-<!-- CODEJAM-LIST:END -->
-
-</details>
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=dopevog&show_icons=true&count_private=true&theme=vision-friendly-dark&icon_color=ffd95b)
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dopevog&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/github-readme-stats)
-  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dopevog&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)
-  
-  ![activity-graph](https://activity-graph.herokuapp.com/graph?username=dopevog&theme=react-dark&area=true&hide_border=true)
-  
-  
-</details>
-
-<details>
-  <summary>🥇 Top Projects</summary>
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cvython&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cvython/vython)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/code-pix/codepix)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=repolist&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/repolist)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
-  
-</details>
-
----
-
-<details>
-  <summary>🐍 Python Projects</summary>
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cvython&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cvython/vython)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=cv-sudoku-solver&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/cv-sudoku-solver)
-  
-</details>
-
-<details>
-  <summary>📜 JavaScript Projects</summary>
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=me&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/me)
- 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/codepix)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
-    
-</details>
-
-<details>
-  <summary>👨‍💻 CSS Projects</summary>
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
-  
-</details>
-
-<details>
-  <summary>🦾 SCSS Projects</summary>
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=repolist&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/repolist)
-  
-</details>
-
-<details>
-  <summary>✏️ Markdown Projects</summary>
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=dopevog&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/dopevog)
   
 </details>
 
